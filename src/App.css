@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  font-family: "Roboto,Arial,sans-serif";
+}
+
+.app {
+  height: 100%;
+}
+
+:root {
+  --primary: #ff3e6c;
+  --secondary: #dddddd;
+  --border-color: grey;
+  --error-color: #ED4337;
+}
